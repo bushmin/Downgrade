@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/downgrade.mp3-cdb1831c94c1231aa1e417908d3e682b.mp3str"
+
+[deps]
+
+source_file="res://music/downgrade.mp3"
+dest_files=[ "res://.import/downgrade.mp3-cdb1831c94c1231aa1e417908d3e682b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
